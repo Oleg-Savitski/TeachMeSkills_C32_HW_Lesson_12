@@ -1,4 +1,4 @@
-package teachmeskills.lesson_12.task_2.application.verification_url;
+package teachmeskills.lesson_12.task_2.verification_url;
 
 import java.util.regex.Pattern;
 

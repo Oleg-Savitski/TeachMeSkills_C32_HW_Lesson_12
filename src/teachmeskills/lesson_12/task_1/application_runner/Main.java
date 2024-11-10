@@ -1,7 +1,7 @@
-package teachmeskills.lesson_12.task_1.application.application_runner_one;
+package teachmeskills.lesson_12.task_1.application_runner;
 
 
-import teachmeskills.lesson_12.task_1.application.verification_code.HexCodeVerification;
+import teachmeskills.lesson_12.task_1.verification_code.HexCodeVerification;
 
 import java.util.Scanner;
 

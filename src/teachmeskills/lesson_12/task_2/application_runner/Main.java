@@ -1,6 +1,6 @@
-package teachmeskills.lesson_12.task_2.application.application_runner_two;
+package teachmeskills.lesson_12.task_2.application_runner;
 
-import teachmeskills.lesson_12.task_2.application.verification_url.UrlVerification;
+import teachmeskills.lesson_12.task_2.verification_url.UrlVerification;
 
 import java.util.Scanner;
 
