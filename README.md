@@ -15,3 +15,13 @@ the program should return that the link is not valid (the link starts with neith
 Task 3.
 
 Enter a number of any length (from zero to infinity). We need to find the sum of his numbers
+
+Task 5. 
+"The task is completed with the addition of additional functionality"
+
+A bank deposit.
+The user makes a contribution in the amount of a rubles for a period of years at 10% per annum
+(every year the amount of his contribution increases by 10%.This money is added to
+the deposit amount, and there will also be interest on it next year).
+Write a bank program that accepts the arguments a and years, and returns
+the amount that will be in the user's account.
