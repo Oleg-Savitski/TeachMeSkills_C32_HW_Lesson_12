@@ -11,3 +11,7 @@ For example, when analyzing such a link https://teachmeskills.by/kursy/programmi
 the program should return that the link is valid.
 and when you enter tcp://teachmeskills.by/kursy/programmirovaniya-online - 
 the program should return that the link is not valid (the link starts with neither http nor https).
+
+Task 3.
+
+Enter a number of any length (from zero to infinity). We need to find the sum of his numbers
