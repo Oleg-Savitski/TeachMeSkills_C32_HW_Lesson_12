@@ -30,3 +30,8 @@ The user makes a contribution in the amount of a rubles for a period of years at
 the deposit amount, and there will also be interest on it next year).
 Write a bank program that accepts the arguments a and years, and returns
 the amount that will be in the user's account.
+
+Task 6.
+
+Rotate the array of n elements to the right by k steps.
+For example, with n = 7 and k = 3, the array [1,2,3,4,5,6,7] rotates to [5,6,7,1,2,3,4].
