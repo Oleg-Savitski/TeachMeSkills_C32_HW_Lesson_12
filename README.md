@@ -35,3 +35,11 @@ Task 6.
 
 Rotate the array of n elements to the right by k steps.
 For example, with n = 7 and k = 3, the array [1,2,3,4,5,6,7] rotates to [5,6,7,1,2,3,4].
+
+Task 7.
+
+Given an array of integers, find two numbers that add up to a given number.
+The twoSum function should return the indexes of two numbers so that they add
+up to the target number. For example:
+Input: numbers = {2, 7, 11, 15}, the goal = 9.
+Output: index [1] = 0, index [2] = 1.
