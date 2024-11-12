@@ -14,10 +14,15 @@ the program should return that the link is not valid (the link starts with neith
 
 Task 3.
 
-Enter a number of any length (from zero to infinity). We need to find the sum of his numbers
+Enter a number of any length (from zero to infinity). We need to find the sum of his numbers.
+
+Task 4.
+
+Finding the largest common divisor (GCD).
+
 
 Task 5. 
-"The task is completed with the addition of additional functionality"
+"The task is completed with the addition of additional functionality."
 
 A bank deposit.
 The user makes a contribution in the amount of a rubles for a period of years at 10% per annum
