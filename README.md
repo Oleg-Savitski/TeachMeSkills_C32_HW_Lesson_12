@@ -43,3 +43,16 @@ The twoSum function should return the indexes of two numbers so that they add
 up to the target number. For example:
 Input: numbers = {2, 7, 11, 15}, the goal = 9.
 Output: index [1] = 0, index [2] = 1.
+
+Task 8.
+
+Having two words (beginning and end) and a dictionary, find the length of the shortest
+sequence of transformations from beginning to end, in which
+only one letter can be changed at a time.
+And every intermediate word must exist in the dictionary.
+For example, given:
+start = "hit"
+end = "cog"
+dict = ["hot", "dot", "dog", "lot", "log"]
+One shortest conversion is "hit" —> "hot" -> "dot" -> "dog" -> "cog",
+the program should return a length of 5.
